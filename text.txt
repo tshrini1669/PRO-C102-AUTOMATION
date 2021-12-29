@@ -1,0 +1,1 @@
+What i find boring is that searching for apps and opening them. so using python i have created a input box and when the user inputs the name of the file i will open that app. For now only some are available to open. To do this i ahve reffered code from youtube.com
